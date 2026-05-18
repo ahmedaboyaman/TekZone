@@ -1,82 +1,91 @@
-# 💻 Infonet Alex | إنفونت ألكس
+📱 TekZone | تيك زون
+A Full Affiliate Marketing & Brand Building Strategy for a Mobile Accessories & Tech Gadgets Store.
 
-**A Full-Stack Digital Transformation & Media Buying Strategy for a Tech Retail Leader.**
+💡 Project Idea
+TekZone is a digital affiliate marketing project developed under the Digital Egypt Pioneers Initiative (DEPI) within the Digital Marketing Specialist Track.
+The project addresses a clear market opportunity: Egyptian consumers are actively searching for affordable, quality mobile accessories and tech gadgets — but struggle to find a trusted, curated source.
+We developed a comprehensive affiliate marketing ecosystem that includes:
 
-## 💡 Project Idea
+Brand Identity Strategy: Building a bold and modern visual identity that reflects innovation and trust for Egyptian tech consumers.
+Affiliate Marketing via Taager: Selecting high-demand, high-margin products and driving sales through performance-based marketing.
+Value-Based Content: Shifting from "Sales-only" posts to educational and review-driven content helping customers choose the right accessories.
+Performance Marketing: A targeted Facebook advertising plan designed to maximize reach, engagement, and affiliate conversions.
+Sales Funnel Optimization: Guiding the audience from awareness to purchase through strategic content and retargeting.
 
-**Infonet Alex** is a commercial digital transformation project aimed at modernizing one of Alexandria's oldest tech retailers (Est. 1996).
-The project addresses the brand's core challenge: bridging the gap between a strong offline legacy and a disconnected younger generation (Gen Z & Students).
+This project proves how a new brand can penetrate the Egyptian tech market through smart product selection, data-driven media buying, and creative affiliate marketing strategies.
 
-We developed a **comprehensive marketing ecosystem** that includes:
-* **Rebranding Strategy:** Refreshing the visual identity to reflect trust and modernity.
-* **Performance Marketing:** A full media buying plan on Facebook, Instagram, and TikTok aimed at maximizing ROI.
-* **Value-Based Content:** Shifting from "Sales-only" posts to educational content helping students choose the right laptop.
-* **Sales Funnel Optimization:** Promoting "Installment Plans" as a key solution for high-ticket electronics.
+👥 Team Members (The Vision Makers)
+Ahmed AbuYaman – Team Leader & Advertising Specialist
 
-This project proves how a traditional business can dominate the digital market through data-driven strategies and creative storytelling.
+Primary: Project coordination, Facebook Ads Management, campaign setup, and performance analysis.
+Secondary: Audience targeting strategy, ad optimization, and Team Mentoring.
+Team Leadership: Organizing and coordinating team workflow, task distribution, and ensuring project milestones are met on time.
 
-## 👥 Team Members (The Impact Squad)
+Abdelrahman Ahmed – Marketing Research Specialist
 
-**Ahmed AbuYaman** – *Team Leader & Project Manager*
-* **Primary:** Project coordination, **Media Buying & Ad Operations**, and GitHub documentation.
-* **Secondary:** Presentation delivery, high-level strategy, and **Team Mentoring**.
+Primary: Competitor analysis, audience research, and market trend analysis.
+Secondary: Strategic insights and campaign recommendations.
 
-**Abdelrahman Ahmed** – *Digital Strategist*
-* **Primary:** Market research, competitor analysis, and content strategy.
-* **Secondary:** Copywriting (Scriptwriting & Ad Copy).
+Hamza Haiduq – Content Calendar Manager
 
-**Hamza Haiduq** – *Creative Director*
-* **Primary:** Visual identity, graphic design, and video production (Reels/TikTok).
-* **Secondary:** Art direction for ad creatives.
+Primary: Organizing the publishing schedule and maintaining content consistency.
+Secondary: Workflow coordination and campaign organization.
 
-**Shahd Elmahallawy** – *Media Buyer*
-* **Primary:** Ad campaign management, targeting strategy, and budget allocation.
-* **Secondary:** Analytics, performance tracking, and ROI optimization.
+Shahd Elmahallawy – Content Planner
 
-**Salsabil Mohamed** – *Operations Manager & Social Media Lead*
-* **Primary:** Social Media Management (Publishing & Community), **Photography Direction**, and Workflow Organization.
-* **Secondary:** Quality Assurance (QA), Timeline management, and Performance Reporting.
+Primary: Content strategy, campaign planning, and post ideas development.
+Secondary: Creative direction and engagement planning.
 
-## 🗂️ Work Plan
+Salsabil Mohamed – Facebook Page Manager & Social Media Lead
 
-### 1. Research & Discovery
-* SWOT Analysis of Infonet's current market position.
-* Competitor Analysis (Online & Offline tech retailers).
-* Defining Buyer Personas (The University Student, The Freelancer).
+Primary: Social Media Management, audience engagement, and community management.
+Secondary: Performance monitoring, workflow organization, and quality assurance.
 
-### 2. Strategic Rebranding
-* Modernizing the visual language while keeping the "Since 1996" heritage.
-* Defining the Tone of Voice: Trusted, Tech-Savvy, and Accessible.
 
-### 3. Content Strategy
-* Developing a "Value-First" content calendar.
-* Educational scripts (e.g., "How to choose a laptop for Engineering?").
-* Interactive engagement posts (Polls, Q&A).
+🗂️ Work Plan
+1. Research & Discovery
 
-### 4. Media Buying & Growth
-* **Campaign A (Awareness):** Broad targeting to re-introduce the brand.
-* **Campaign B (Conversion):** Retargeting interested users with "Installment Offers".
-* **Platform Selection:** Focusing on social media.
+Competitor analysis for mobile accessories and tech gadget pages in Egypt.
+Product research on Taager platform to identify high-demand, high-margin items.
+Defining Buyer Personas (The University Student, The Young Professional, The Tech Enthusiast).
 
-### 5. Execution & Optimization
-* Launching A/B tests for Ad Creatives (Video vs. Static).
-* Monitoring KPIs: CTR (Click-Through Rate), CPC (Cost Per Click), and ROAS.
-* Community Management and replying to leads.
+2. Branding & Identity Development
 
-### 6. Final Delivery
-* Compiling the Strategy Proposal (PDF).
-* Showcasing Ad Creatives and Visuals.
-* Final presentation and documentation on GitHub.
+Creating a bold and modern visual identity reflecting tech innovation.
+Defining the Brand Tone of Voice: Bold, Trustworthy, and Tech-Savvy.
+Building a consistent social media appearance across all touchpoints.
 
-## 👨‍🏫 Instructor
+3. Content Strategy
 
+Developing a "Value-First" content calendar focused on product reviews and deals.
+Educational content (e.g., "Best earbuds under 500 EGP", "How to choose the right phone case?").
+Interactive engagement posts (Polls, Unboxing, Q&A).
+
+4. Affiliate Marketing & Growth
+
+Campaign A (Awareness): Broad targeting to introduce TekZone to the Egyptian market.
+Campaign B (Conversion): Retargeting interested users with direct product offers and deals.
+Platform Focus: Facebook & Instagram with affiliate links via Taager.
+
+5. Execution & Optimization
+
+Launching A/B tests for Ad Creatives (Video vs. Static).
+Monitoring KPIs: CTR, CPC, ROAS, and Affiliate Conversion Rate.
+Community management and responding to product inquiries.
+
+6. Final Delivery
+
+Compiling the Strategy Proposal (PDF).
+Showcasing Ad Creatives, Content Samples, and Branding Visuals.
+Final presentation and documentation.
+
+
+👨‍🏫 Instructor
 [Momen Elbadri]
 
-## 📂 Project Files
-
+📂 Project Files
 Access all project strategic documents and creatives here:
 [https://drive.google.com/drive/u/0/folders/10L4hoFDAiDYREG8QZzHFSTAJSMZeDCfd]
 
-## ⚖️ License
-
-All rights reserved © 2026 The Impact Squad | DEPI Cohort
+⚖️ License
+All rights reserved © 2026 TekZone Team | DEPI Cohort
